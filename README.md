@@ -1,35 +1,43 @@
 # Rectangle HTML Test
-A test to check skills in positioning elements.
+Testing your skills in placing html elements.
 
-## 4 Steps to Pass
-1. ### Clone the Repository
-   `git clone https://github.com/`
-2. ### Open `index.html` and `css/style.css`
-3. ### Task
-   Simply complete `index.html` so it looks like the image below.<br>
-   Do not delete or change anything that is already in these files, only add to them.<br>
-   You can only write inside a `div` with `o` class tag.
-   Use only `div` tags.
+## Clone the Repository
+   ```sh
+   git clone https://github.com/Artasov/rectangle-html-test
+   ```
+   
+## Open `index.html` and `css/style.css`
+
+## Task
+   Just fill in the contents of the `<div class="o">` tag in `index.html `, so that it looks like in the picture below.<br>
+   Do not delete or change anything that is already in the `index.html `and `style.css`, just add your code to them.<br>
+   You can only write new tags inside a `div` with an `o` class tag.<br>
+   Use only the `div` tags. <br>
+   Do as much and as much as you can, it's just a test
 ## Difficulty Levels
-  From easy to hard.
-  * ### 1 
+  * ### `1` Very simple
      Just make it like the image below.
-  * ### 2 
-     Do not use:
+  * ### `2` Average
+     **Do not use**
      * justify-content
      * padding
-  * ### 3 
-     Do not use `px` `em` `rem` `vh` ... only `%`<br>
-     Do not use:
+  * ### `3` A bit complicated
+     When the width and height of the `.o` class are proportionally changed,
+     its contents should not be distorted or change their proportions. 
+     **Do not use**
+     * `px em rem vh vw...` only `%`
      * margin
      * padding
-  * ### 4 
-     Do not use `px` `em` `rem` `vh` ... only `%`<br>
-     Do not use:
-     * margin
+  * ### `4` Difficult
+     **Do not use**
+     When the width and height of the `.o` class are proportionally changed,
+     its contents should not be distorted or change their proportions.
+     * `px em rem vh vw...` only `%`
      * padding
      * justify-content
      * align-items
+     * position
+     * flex
 
 ## Result
 ![](img/result.png)
