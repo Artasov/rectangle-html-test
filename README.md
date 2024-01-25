@@ -27,14 +27,14 @@ Testing your skills in placing html elements.
      When the width and height of the `.o` class are proportionally changed,
      its contents should not be distorted or change their proportions.<br>
      **Do not use**
-     * `px em rem vh vw...` only `%`
+     * `px em rem vh vw...` only `%` allowed
      * `margin`
      * `padding`
   * ### `4` 😎 Difficult `Not really`
      When the width and height of the `.o` class are proportionally changed,
      its contents should not be distorted or change their proportions.<br>
      **Do not use**
-     * `px em rem vh vw...` only `%`
+     * `px em rem vh vw...` only `%` allowed
      * `padding`
      * `justify-content`
      * `align-items`
