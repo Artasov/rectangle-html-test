@@ -9,7 +9,8 @@ Testing your skills in placing html elements.
 ## Open `index.html` and `css/style.css`
 
 ## Task
-   Just fill in the contents of the `<div class="o">` tag 
+   
+   Just fill in the contents of the `<div class="o">` tag(red square) 
    in `index.html` , so that it looks like in the picture below.<br>
    Do not delete or change anything that is already in the 
    `index.html` and `style.css`, just add your code to them.<br>
