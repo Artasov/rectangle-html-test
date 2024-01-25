@@ -17,20 +17,20 @@ Testing your skills in placing html elements.
    Use only the `div` tags. <br>
    Do as much and as much as you can, it's just a test *🙄*
 ## Difficulty Levels
-  * ### `1` Very simple
+  * ### `1` 🤓 Very simple
      Just make it like the image below.
-  * ### `2` Average
+  * ### `2` 😐 A bit complicated
      **Do not use**
      * justify-content
      * padding
-  * ### `3` A bit complicated
+  * ### `3` 🧐 Average
      When the width and height of the `.o` class are proportionally changed,
      its contents should not be distorted or change their proportions. 
      **Do not use**
      * `px em rem vh vw...` only `%`
      * margin
      * padding
-  * ### `4` Difficult
+  * ### `4` 😎 Difficult `Not really`
      **Do not use**
      When the width and height of the `.o` class are proportionally changed,
      its contents should not be distorted or change their proportions.
