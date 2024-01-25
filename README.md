@@ -18,28 +18,28 @@ Testing your skills in placing html elements.
    Do as much as you can, it's just a test *🙄*
 ## Difficulty Levels
   * ### `1` 🤓 Very simple
-     Just make it like the image below.
+     **Just make it like the image below.**
   * ### `2` 😐 A bit complicated
      **Do not use**
-     * justify-content
-     * padding
+     * `justify-content`
+     * `padding`
   * ### `3` 🧐 Average
      When the width and height of the `.o` class are proportionally changed,
-     its contents should not be distorted or change their proportions. 
+     its contents should not be distorted or change their proportions.<br>
      **Do not use**
      * `px em rem vh vw...` only `%`
-     * margin
-     * padding
+     * `margin`
+     * `padding`
   * ### `4` 😎 Difficult `Not really`
      **Do not use**
      When the width and height of the `.o` class are proportionally changed,
-     its contents should not be distorted or change their proportions.
+     its contents should not be distorted or change their proportions.<br>
      * `px em rem vh vw...` only `%`
-     * padding
-     * justify-content
-     * align-items
-     * position
-     * flex
+     * `padding`
+     * `justify-content`
+     * `align-items`
+     * `position`
+     * `flex`
 
 ## Result
 ![](img/result.png)
