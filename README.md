@@ -15,7 +15,7 @@ Testing your skills in placing html elements.
    `index.html` and `style.css`, just add your code to them.<br>
    You can write new tags only inside a `div` with an `o` class tag.<br>
    Use only the `div` tags. <br>
-   Do as much and as much as you can, it's just a test *🙄*
+   Do as much as you can, it's just a test *🙄*
 ## Difficulty Levels
   * ### `1` 🤓 Very simple
      Just make it like the image below.
