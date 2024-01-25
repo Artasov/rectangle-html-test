@@ -31,9 +31,9 @@ Testing your skills in placing html elements.
      * `margin`
      * `padding`
   * ### `4` 😎 Difficult `Not really`
-     **Do not use**
      When the width and height of the `.o` class are proportionally changed,
      its contents should not be distorted or change their proportions.<br>
+     **Do not use**
      * `px em rem vh vw...` only `%`
      * `padding`
      * `justify-content`
