@@ -13,7 +13,7 @@ Testing your skills in placing html elements.
    in `index.html` , so that it looks like in the picture below.<br>
    Do not delete or change anything that is already in the 
    `index.html` and `style.css`, just add your code to them.<br>
-   You can only write new tags inside a `div` with an `o` class tag.<br>
+   You can write new tags only inside a `div` with an `o` class tag.<br>
    Use only the `div` tags. <br>
    Do as much and as much as you can, it's just a test *🙄*
 ## Difficulty Levels
